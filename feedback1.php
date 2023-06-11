@@ -1,16 +1,16 @@
 <!-
 Code Initiator - Hussain Moulana
-Begin Date - March - 2023
+Begin Date - June - 2023
 >
 
 <?php
 $Email=$_POST ['email'];
 $Feedback=$_POST ['feedback'];
 if ( !empty($Email) || !empty($Feedback) ){
-        $hostname="us-cdbr-east-04.cleardb.com";
-        $username="b8f5fe66220704";
-        $password="5b7f8b7c";
-        $dbname="heroku_611d7b294f31a80";
+        $hostname="us-cdbr-east-06.cleardb.net";
+        $username="b5b92cc92c7696";
+        $password="84e9850f";
+        $dbname="heroku_8198dac0f287250";
         
         $connection= new mysqli ($hostname,$username,$password, $dbname);
            

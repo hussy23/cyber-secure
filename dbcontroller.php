@@ -1,14 +1,14 @@
 <!-
 Code Initiator - Hussain Moulana
-Begin Date - March - 2023
+Begin Date - June - 2023
 >
 
 <?php
 class DBController {
-	public $user = "b8f5fe66220704";
-	public $password = "5b7f8b7c";
-	public $database = "heroku_611d7b294f31a80";
-	public $host = "us-cdbr-east-04.cleardb.com";
+	public $user = "b5b92cc92c7696";
+	public $password = "84e9850f";
+	public $database = "heroku_8198dac0f287250";
+	public $host = "us-cdbr-east-06.cleardb.net";
 	public $connection;
 	
 	function __construct() {
