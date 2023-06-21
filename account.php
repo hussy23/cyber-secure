@@ -305,7 +305,7 @@ if(isset($_SESSION["cart_item"])){
 		?>
 
 <tr>
-<td colspan="2" align="left" style="font-weight:bold; font-size:20px; color:red; font-family:cursive">Your Total Bill (LKR):</td>
+<td colspan="2" align="left" style="font-weight:bold; font-size:20px; color:red; font-family:cursive">Your Total Bill (GBP):</td>
 <td align="right" colspan="2" style="font-size:20px;  text-align:right; color:red; font-family:cursive;"><strong>
     <?php echo number_format($total_price, 2); ?></strong></td>
 <td></td>

@@ -71,7 +71,7 @@ $db_handle = new DBController();
 			<div class="product-tile-footer">
 			<div class="product-title"><?php echo $product_array[$key]["name"]; ?></div>
                         <div class="product-desc" style="font-weight:bold; font-style: oblique"><?php echo "*conditions apply"."<br>". $product_array[$key]["description"]; ?></div>
-			<div class="product-price"><?php echo "LKR ".$product_array[$key]["price"]; ?></div>
+			<div class="product-price"><?php echo "GBP ".$product_array[$key]["price"]; ?></div>
 			<div class="cart-action">
                              <div class="value-button" id="decrease" onclick="decreaseValue()" value="Decrease Value"></div>
                              <input type="number" class="product-quantity" name="quantity" value="1" size="2" />
