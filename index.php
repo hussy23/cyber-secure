@@ -22,7 +22,7 @@ $db_handle = new DBController();
 
 <style>
      body {
-         background-image: url("images/MAIN PAGE.jpg");
+         background-image: url("images/Index.jpg");
 	     background-size: 100% 1000px;
          
         } 
@@ -100,7 +100,7 @@ $db_handle = new DBController();
 
         <nav class="header-right">
         <a href="reg.php"> Sign Up </a>
-        <a href="login.php"> Logi</a>
+        <a href="login.php"> Login </a>
         </nav>
              
     </div>
