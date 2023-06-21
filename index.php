@@ -100,7 +100,7 @@ $db_handle = new DBController();
 
         <nav class="header-right">
         <a href="reg.php"> Sign Up </a>
-        <a href="login.php"> Login</a>
+        <a href="login.php"> Logi</a>
         </nav>
              
     </div>
