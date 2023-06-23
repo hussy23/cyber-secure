@@ -185,9 +185,9 @@ Begin Date - June - 2023
             </div>
                 <div clas="content">
                     <div class="article">
-                        <h3>DC vs Marvel</h3>
-                        <p>An Online Comic Bookstore Established in 2021.</br>
-                        With the sole aim of providing the best of conveniences to customers
+                        <h3>Nixon</h3>
+                        <p>Security Systems training and softwares Established in 2023.</br>
+                        With the sole aim of prtoecting users against digital threats
                         <br>
                         </p>
                         
