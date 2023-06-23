@@ -27,8 +27,8 @@ $db_handle = new DBController();
                        <a class="active" href="comics.php"><strong>comics</a></strong>
                  
                     <div class="dropdown-options">
-                      <a href="MARVEL.php" > MARVEL </a>
-                      <a href="DC.php" > DC</a>
+                      <a href="MARVEL.php" > SOFTWARE </a>
+                      <a href="DC.php" > TUTORIAL </a>
                       <a href="comicsoffer.php" > Offers</a>
                     </div>
                     </div>
