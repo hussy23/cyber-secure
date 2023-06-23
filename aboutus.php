@@ -131,9 +131,9 @@ Begin Date - June - 2023
                         <em class="fa fa-caret-down"></em></button>
                         
                     <div class="dropdown-options">
-                      <a href="MARVEL.php" > MARVEL </a>
-                      <a href="DC.php" > DC</a>
-                      <a href="comicsoffer.php" > Offers</a>
+                      <a href="MARVEL.php" > SOFTWARE </a>
+                      <a href="DC.php" > TUTORIAL </a>
+                      <a href="comicsoffer.php" > Offers </a>
                     </div> 
                     </div>
                
