@@ -161,7 +161,7 @@ input[type=text]:focus, input[type=password]:focus, input [type=email]:focus {
             <a href="https://www.instagram.com/themarvelvsdc/?hl=en" target="_blank"> <em class="fa fa-instagram" style="color:magenta; font-size:40px"></em> </a> 
             <a href="https://twitter.com/TheMarvelvsDC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><em class="fa fa-twitter-square" style="color:#00acee; font-size:40px" ></em> </a>  
             </a>  <br>
-             &copy;2021-2025 copyright by DC vs MARVEL<br>
+             &copy;2021-2025 copyright by Nixon<br>
              all rights reserved.<br>
                 Designed by Hussain Moulana!  
         </div>
