@@ -10,7 +10,7 @@ require_once("dbcontroller.php");
 $db_handle = new DBController();
 ?>
 <!DOCTYPE php>
-<link href="images/Logo 2.jpg" rel="short icon" type="image/jpg"/>
+<link href="images/Logo 2.PNG" rel="short icon" type="image/jpg"/>
 <php>
 <head>
 <link rel="stylesheet" href="main.css">
