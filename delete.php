@@ -12,7 +12,7 @@ Begin Date - June - 2023
 <head>
 <link rel="stylesheet" href="main.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<title> DC vs MARVEL - Login </title>
+<title> Nixon - Login </title>
 <style>
   body{
 	margin: 0 auto;

@@ -7,7 +7,7 @@ Begin Date - June - 2023
 
 <html lang="en">
     <head>
-        <title>DC vs MARVEL</title>
+        <title>Nixon</title>
 <style>
 body{
 	margin: 0 auto;

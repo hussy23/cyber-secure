@@ -12,7 +12,7 @@ Begin Date - June - 2023
 <link rel="stylesheet" href="incdec.css">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<title> DC vs MARVEL - SignUp </title>
+<title> Nixon - SignUp </title>
 <style>
     
 body {

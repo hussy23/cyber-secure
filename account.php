@@ -79,7 +79,7 @@ switch($_GET["action"]) {
   	}
  
 </script>
-<title> DC vs MARVEL </title>
+<title> Nixon </title>
 <style>
     
     .header-right{

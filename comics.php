@@ -14,7 +14,7 @@ $db_handle = new DBController();
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<TITLE>comics</TITLE>
+<TITLE>Nixon - comics</TITLE>
 
 </HEAD>
 <BODY>
