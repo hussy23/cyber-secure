@@ -170,7 +170,7 @@ Begin Date - June - 2023
                 <div clas="content">
                     <div class="article">
                         <h3>Hussain Moulana</h3>
-                        <p>Bsc (Hons) in Software Engineering<br /> HND in Computer Science<br>
+                        <p>MSc in Cyber Security Engineering<br /> Bsc (Hons) in Software Engineering<br>
                         
                         <a href="https://www.facebook.com/alizzzz.7" target="_blank"><em class="fa fa-facebook-official" style="color:blue; font-size:40px"></em></a> 
                         <a href="https://www.instagram.com/ali_husssain_/" target="_blank"> <em class="fa fa-instagram" style="color:magenta; font-size:40px"></em> </a> 
