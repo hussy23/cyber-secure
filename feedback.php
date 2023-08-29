@@ -84,7 +84,7 @@ textarea {
             <nav class="header-left">
                 <a  href="index.php">Home</a>
                 <div class="dropdown">
-                    <a href="comics.php"> comics </a> <button class="dropbtn"> 
+                    <a href="comics.php"> Section </a> <button class="dropbtn"> 
                         <em class="fa fa-caret-down"></em></button>
                 
                     <div class="dropdown-options">

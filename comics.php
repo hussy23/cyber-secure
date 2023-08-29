@@ -14,7 +14,7 @@ $db_handle = new DBController();
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<TITLE>Nixon - comics</TITLE>
+<TITLE>Nixon</TITLE>
 
 </HEAD>
 <BODY>
@@ -24,7 +24,7 @@ $db_handle = new DBController();
              <nav class="header-left">
                 <a  href="index.php">Home</a>
                 <div class="dropdown">
-                       <a class="active" href="comics.php"><strong>comics</a></strong>
+                       <a class="active" href="comics.php"><strong>Section</a></strong>
                  
                     <div class="dropdown-options">
                       <a href="MARVEL.php" > SOFTWARE </a>

@@ -67,7 +67,7 @@ $db_handle = new DBController();
                 <a class="active" href="index.php"><strong>Home</a></strong>
                 
                 <div class="dropdown">
-                    <a href="comics.php"> comics </a> <button class="dropbtn"> 
+                    <a href="comics.php"> Section </a> <button class="dropbtn"> 
                         <em class="fa fa-caret-down"></em></button>
                                                        
                 
