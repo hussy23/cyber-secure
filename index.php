@@ -177,7 +177,7 @@ function showSlides(n) {
 }
 </script>
 
-<h3 class="FP">FEATURED COMICS</h3>
+<h3 class="FP">FEATURED </h3>
     
  
 <div id="product-grid">
